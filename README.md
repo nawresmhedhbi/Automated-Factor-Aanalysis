@@ -67,5 +67,42 @@ python pipeline.py
 A little sneak peek to the solution : 
 
 The exe file generated : 
-![This is an image](images/generated exe file.png)
+
+![](images/generated_exe_file.png)
+
+Here you will be uploading your excel file for example : 
+
+![](images/upload_data.png)
+
+You will be then directed to the configurations interface when you'll be selctiong variables ypu want to perform FA with, rotation type, .. 
+
+![](images/FA_configurations.png)
+
+Main interface of FA:  
+
+![](images/FA_interface.png)
+
+An example of an output of Adequacy checks : 
+
+![](images/Result_of_adequacy_checks.png)
+
+Configurations of AutoMl :
+
+![](images/AutoMLconfigurations.png)
+
+
+AutoMl main interface:
+
+![](images/AUTOML_main.png)
+
+AutoMl Results:
+
+- Leadboard :
+
+![](images/leadboard_AutoML.png)
+
+- Model performance on training
+
+![](images/performance_of_the_model_on_training.png)
+
 
