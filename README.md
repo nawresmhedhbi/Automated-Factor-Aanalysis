@@ -44,5 +44,9 @@ Returned result : Returns Valid if the two test are valid, and returns Not Valid
    4. You can explore results of the model 
 
 In ordee to  use the code you just need to download the file "Code", go to your command and type : 
-
+```
+python pipeline.py
+```
 ### Deployment of the solution
+
+
