@@ -13,7 +13,7 @@ There are two main forms of FA: Exploratory and confirmatory FA.
 
 The pipeline steps are as below:
 
- 1. Adequacy Checks : 
+1. Adequacy Checks : 
 
 First of all our FA should be verified, to do so 2 tests are availble : 
    - Bartlett Sphericity Test: A check of intercorrelation between manifest variables.
@@ -21,11 +21,11 @@ First of all our FA should be verified, to do so 2 tests are availble :
   
 Returned result : Returns Valid if the two test are valid, and returns Not Valid if the two tests are not valid or either one of them
 
- 2. Apply Exploratory Factor Analysis:
+2. Apply Exploratory Factor Analysis:
 
    1. Finds the initial number of factors 
    2. Apply Fcator analysis with the initial number of factors and does iteratations in order to find the final number of factors 
-   3. Retur the cummilative variance explained by the factors
+   3. Retur the cumulative variance explained by the factors
    4. Return final results : The final factors and variables + cummilative variance explained
  
 3. Apply Exploratory Factor Analysis:
@@ -33,7 +33,7 @@ Returned result : Returns Valid if the two test are valid, and returns Not Valid
    1. Creates a model with the result of the Exploratory Factor Analysis
    2. Does an Confirmatory Factor Analysis 
    3. Returns the result: Confirmed if the test confirms the results of the Exploratory Factor Analysis or Not Confirmed in the other case
- 
+
 4. Predictions time :
 
  This part is for classifications problems, if we have already found the most pertinent variables and wants to know their efficiency in classification tasks.
