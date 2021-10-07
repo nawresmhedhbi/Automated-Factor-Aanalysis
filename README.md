@@ -28,7 +28,7 @@ Returned result : Returns Valid if the two test are valid, and returns Not Valid
    3. Retur the cummilative variance explained by the factors
    4. Return final results : The final factors and variables + cummilative variance explained
  
- 3. Apply Exploratory Factor Analysis:
+3. Apply Exploratory Factor Analysis:
 
    1. Creates a model with the result of the Exploratory Factor Analysis
    2. Does an Confirmatory Factor Analysis 
