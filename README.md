@@ -34,7 +34,7 @@ Returned result : Returns Valid if the two test are valid, and returns Not Valid
    2. Does an Confirmatory Factor Analysis 
    3. Returns the result: Confirmed if the test confirms the results of the Exploratory Factor Analysis or Not Confirmed in the other case
  
- 4. Predictions time :
+4. Predictions time :
 
  This part is for classifications problems, if we have already found the most pertinent variables and wants to know their efficiency in classification tasks.
  This part uses AutoML, it takes the varibles that we got from FA and tests the efficny of the factors to predict using a target variable !
