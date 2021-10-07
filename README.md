@@ -43,10 +43,26 @@ Returned result : Returns Valid if the two test are valid, and returns Not Valid
    3. Runs predictions automatcly with the best model 
    4. You can explore results of the model 
 
+There are three files : 
+
+**config.py**: Contains all the configurations to enter that are used by the functions. 
+**preprocessor.py**: Contains all the functions to be executed
+**pipeline.py**: The execution file
+
 In ordee to  use the code you just need to download the file "Code", go to your command and type : 
 ```
 python pipeline.py
 ```
 ### Deployment of the solution
+In this part we used TKinter to transfrom the pipeline to a usable solution.
+
+In ordee to transform the solution to an executable exe file type : 
+```
+pyinstaller --onefile  pipeline.py
+```
+Otherwise just use : 
+```
+python pipeline.py
+```
 
 
