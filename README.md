@@ -67,5 +67,5 @@ python pipeline.py
 A little sneak peek to the solution : 
 
 The exe file generated : 
-![](images/generated exe file.png)
+![This is an image](images/generated exe file.png)
 
