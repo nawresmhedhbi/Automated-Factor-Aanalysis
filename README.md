@@ -1,4 +1,4 @@
-###### Automated-Factor-Aanalysis
+### Automated-Factor-Aanalysis
  - What is Factor Analysis ?
 Factor Analysis (FA) is It is a useful tool for studying the variable relationships of complex concepts (such as socio-economic status, eating habits or psychological scales)
  - Why it is used ?
